@@ -1,0 +1,8 @@
+{
+"packageUrl" : "http://example.com/assets_manager/",
+"remoteVersionUrl" :
+"http://example.com/assets_manager/version.manifest",
+"remoteManifestUrl" :
+"http://example.com/assets_manager/project.manifest",
+"version" : "1.0.1",
+}

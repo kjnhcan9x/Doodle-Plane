@@ -1,0 +1,16 @@
+{
+"packageUrl" : "https://github.com/kjnhcan9x/Dontplayalone/",
+"remoteVersionUrl" : "https://github.com/kjnhcan9x/Dontplayalone/version.manifest",
+"remoteManifestUrl" : "https://github.com/kjnhcan9x/Dontplayalone/project.
+manifest",
+"version" : "1.0.1",
+"assets" : {
+"HelloWorld.png" : {
+"md5" : "b7892dc221c840550847eaffa1c0b0aa"
+},
+"test.zip" : {
+"md5" : "c7615739e7a9bcd1b66e0018aff07517",
+"compressed" : true
+}
+}
+}
